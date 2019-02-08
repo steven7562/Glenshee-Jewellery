@@ -1,0 +1,81 @@
+/*!
+ * Start Bootstrap - Small Business (http://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+    background-color: #545454;
+    color: white;
+    
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+       
+    }
+}
+
+.card-body {background-color: #545454;}
+.card-footer {background-color: #545454;}
+ {color: white;}
+ 
+ .card-img-top { height: 200px;
+                }
+.card-img-top:hover {transform: scale(2);
+                     z-index: 1; position:relative;
+                     }
+@media screen and (max-width: 1024px) {.card-img-top:hover {transform: scale(1);
+                     z-index: 1; position:relative;
+                     }}
+
+
+.img-fluid.img-thumbnail  {height: 200px;
+                           width: 200px;}
+
+
+.img-fluid.img-thumbnail:hover {transform: scale(2);
+                     z-index: 1; position: relative;
+                     
+                     }
+ 
+@media screen and (max-width: 1024px) {.img-fluid.img-thumbnail:hover {transform: scale(1);
+                     z-index: 1; position: relative; 
+                     
+                     }} 
+ 
+
+li {list-style-type: none;
+   text-align: center;}
+   
+   
+   
+.card-title {font-weight: bold;
+            border-bottom-style: solid;
+            font-size: 90%;
+            }
+.card-text {font-size: 90%;}
+
+#facebook {  width: 50%;
+           }
+   
+
+.col-lg-4 {font-size: 90%;}
+
+
+footer {vertical-align: bottom;
+        margin-top: 120px;}
+
+     
+
+
+
+
+
+
+     
+
+
+
